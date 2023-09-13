@@ -1,0 +1,14 @@
+{
+"first_name": "Arafat",
+"last_name": "Gairatbekov",
+"email": "gaiAra@mail.ru",
+"gender": "Female",
+"mobile_phone": "7777277272",
+"date_of_birth": "24.09.2023",
+"subjects": ["Math", "Arts"],
+"hobbies": ["Sports", "Music"],
+"image": "1.jpg",
+"current_address": "Shishinskii street",
+"state": "Haryana",
+"city": "Panipat"
+}
